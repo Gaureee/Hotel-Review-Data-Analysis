@@ -1,1 +1,5 @@
 # Hotel-Review-Data-Analysis
+Customer reviews on hotels are very important part of travel plan for people now a days. People prefer to book such hotels which have high number of positive reviews. There are diﬀerent sources to ﬁnd the reviews to get a better insight about the hotel’s reputation. Thus it can be said that customer reviews plays an important part for business owners in order to improve their services.
+In this project, sentiment analysis is performed on the basis of user reviews using three diﬀerent classiﬁers. The classiﬁers used in this project are “Naive Bayes", "Random Forest” and “Support Vector Machine”. The performance of these algorithms are assessed on two diﬀerent parameter settings. The reviews are classiﬁed as “Positive", “Negative”  labels.
+
+Objective - Our goal is to examine how travellers are communicating their positive and negative experiences in online platforms for staying in a specific hotel and major objective is what are the attributes that travellers are considering while selecting a hotel. With this manager can understand which elements of their hotel influence more in forming a positive review or improves hotel brand image.
