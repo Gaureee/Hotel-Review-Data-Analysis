@@ -1,0 +1,36 @@
+pandas lib .. python lib used for working with datasets
+numpy lib... python lib used for working with arrays
+matplotlib lib...python lib used for basic visualization(more code) .....pyplot is an API(Application Programming Interface) built on top of it
+seaborn lib..python lib used for complex visualization(less code) 
+plotly.express........provides functions to visualize a variety of types of data
+nltk(NATURAL LANGUAGE TOOLKIT) library ... a powerful toolkit used for working with human language data or text
+wordnet.... a large database of English...groups synonyms and finds relation between them
+stopword....the common words in english are filtered out before processing .."the", "is", "in", "and", etc.
+punkt.. splits paragraphs into sentences
+
+
+
+
+
+
+MODEL BUILDING
+
+Logistic Regression :- Test Logistic Regression Accuracy: 92.19%
+                       Train Logistic Regression Accuracy: 94.86%
+
+Support Vector Machine(SVM) :- SVM Train Accuracy: 97.78%
+                               SVM Test Accuracy: 93.01%
+
+NN and Deep Learning :- NN and Deep Learning Test Accuracy: 92.76%
+                        NN and Deep Learning Train Accuracy: 97.77%
+
+Random Forest :- Random Forest Test Accuracy: 84.70%
+                 Random Forest Train Accuracy: 84.22%
+
+Naive Bayes :- Naive Bayes Test Accuracy: 84.48%
+               Naive Bayes Train Accuracy: 84.33%
+
+
+
+
+
